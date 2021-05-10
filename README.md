@@ -7,3 +7,5 @@ controls your home appliances through 5v to 220v relays. The microcontroller mus
 when you are at home.
 
 You can share control to family members with just a QR scan. The QR code generator and scanner all implemented in this app and even you can share with other masseging app like facebook, whatsapp, normal masseging app and others.
+
+You can access the website [here](https://suvajit790.github.io/HomeControlWeb/) also.
